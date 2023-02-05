@@ -1,0 +1,31 @@
+lazy loading technique :-is used to manage traffic
+
+
+module creation
+   ng g module modulename
+
+-lazy loaded module creation
+   ng g module moduleName --route moduleName--module rootmoduleName
+
+-json server installing 
+
+  npm i --save json-server
+
+  json server run
+    npx json-server --watch db.json --port 3000
+..................................................................................
+
+
+Access data from componentpath
+------------------------------
+ActivatedRoute :- class
+
+params   :-method
+
+pipe genarating code
+---------------------
+ng g pipe (pipename)
+
+BehaviourSubject in angular
+---------------------------
+

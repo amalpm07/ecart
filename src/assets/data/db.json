@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "productName": "Argentina Jersey",
+      "categoryId": 3,
+      "discription": "Men's Replica adidas Messi Argentina Home Jersey 2022 - 3 Stars",
+      "price": 10666,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/sxh0z0qp/download-2.webp",
+      "rating": 4,
+      "reviews": 42,
+      "warrenty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Puma Soccer Cleats",
+      "categoryId": 2,
+      "discription": "Puma Future Ultimate FG/AG Soccer Cleats",
+      "price": 17866,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/02bM5thQ/download-3.webp",
+      "rating": 4.2,
+      "reviews": 39,
+      "warrenty": 2
+    },
+    {
+      "id": 5,
+      "productName": "PSG Jersey",
+      "categoryId": 3,
+      "discription": "Men's Replica Nike Mbappe Paris Saint-Germain Third Jersey 22/23",
+      "price": 10000,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/Hs7m2xnp/download-4.webp",
+      "rating": 4.1,
+      "reviews": 35,
+      "warrenty": 1
+    },
+    {
+      "id": 7,
+      "productName": "Adidas MLS Ball ",
+      "categoryId": 1,
+      "discription": "adidas MLS Club Soccer Ball 2022",
+      "price": 3175,
+      "isAvailable": true,
+      "productImage": "https://i.postimg.cc/13WM6k12/download-7.webp",
+      "rating": 4.4,
+      "reviews": 17,
+      "warrenty": 1
+    },
+    {
+      "id": "9",
+      "productName": "Nike Soccer Cleats",
+      "categoryId": "2",
+      "discription": "Nike Zoom Mercurial Vapor 15 Elite Q FG Soccer Cleats",
+      "price": "21000",
+      "isAvailable": "true",
+      "productImage": "https://i.postimg.cc/gcNhx0j7/download-8.webp",
+      "rating": "4.5",
+      "review": "56",
+      "warrenty": "2"
+    }
+  ]
+}
